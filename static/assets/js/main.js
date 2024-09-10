@@ -348,10 +348,3 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.style.backgroundImage = `url('${savedBackgroundImage}')`;
   }
 });
- var password
-var pass1 = 'fo3s0m'
-password = prompt('Please enter your password.', ' ')
-if (password == pass1) alert('Password Correct! This site is made by Chang.')
-else {
- window.location = 'google.com'
-}
